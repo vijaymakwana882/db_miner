@@ -38,6 +38,8 @@ dependencies:
   http:
   shared_preferences:
   get:
+  google_fonts: 5.0.0
+  share_plus:
 
 
 dev_dependencies:

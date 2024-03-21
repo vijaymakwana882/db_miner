@@ -1,4 +1,4 @@
-import 'package:db_miner/Controllers/api_controller.dart';
+import 'package:db_miner/Controllers/quote_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
